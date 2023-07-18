@@ -1,3 +1,10 @@
 # Learning typescript
 
-Experiments from the Udemy's course [Understanding Typescript](https://www.udemy.com/course/understanding-typescript/) 
+Experiments from the Udemy's course [Understanding Typescript](https://www.udemy.com/course/understanding-typescript/)
+
+## Setting up env
+
+```
+nvm use
+npm -g install typescript
+```
