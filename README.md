@@ -13,6 +13,12 @@ npm i
 ## Running the project
 
 ```bash
-tsc app.ts
-npm run lite-server
+# Watch mode
+# tsc app.ts -w
+
+# Uses tsconfig.json to load all .ts files
+tsc -w
+
+npm run start
+
 ```

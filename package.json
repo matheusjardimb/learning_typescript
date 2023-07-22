@@ -7,8 +7,12 @@
     "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Matheus Jardim",
+  "license": "MIT",
   "devDependencies": {
     "lite-server": "2.6.1"
   }
