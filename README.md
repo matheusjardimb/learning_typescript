@@ -22,3 +22,7 @@ tsc -w
 npm run start
 
 ```
+
+## Resources
+ - https://kangax.github.io/compat-table/es6/
+ - 
