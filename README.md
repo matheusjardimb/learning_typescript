@@ -24,5 +24,6 @@ npm run start
 ```
 
 ## Resources
- - https://kangax.github.io/compat-table/es6/
- - 
+
+- https://kangax.github.io/compat-table/es6/
+- https://www.typescriptlang.org/docs/handbook/utility-types.html
