@@ -1,0 +1,19 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "Experiments from the Udemy's course [Understanding Typescript](https://www.udemy.com/course/understanding-typescript/)",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Matheus Jardim",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.6.1"
+  }
+}
